@@ -1,0 +1,138 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    font-size:2rem;
+    background-color: rgb(114, 114, 255);
+    align-items: center;
+    line-height:0px;
+    
+}
+.navbar1{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+img{
+    margin-right: 50px;
+    margin-bottom: 0px;
+}
+.List{
+    display:flex;
+    list-style-type: none;
+    justify-content:space-around;
+}
+.navbar img{
+border-radius: 30px;
+margin-left:450px;
+
+}
+.btn{
+    text-transform: uppercase;
+    color:rgb(255, 201, 242);
+    font-weight: bold;
+    border: none;
+    margin-right: 20px;
+    font-size: 0.8rem;
+}
+.heading{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    color:rgb(112, 255, 205);
+    text-shadow: 2px 2px 2px white;
+    
+}
+
+@media screen and (max-width: 986px) {
+    .navbar{
+        font-size:2rem;
+        background-color: rgb(114, 114, 255);
+        align-items: center;
+        line-height:0px;
+        
+    }
+    .navbar1{
+        display: flex;
+        justify-content:space-evenly;
+        
+    }
+    img{
+        margin-right: 50px;
+        margin-bottom: 0px;
+    }
+    .List{
+        display:flex;
+        list-style-type: none;
+        justify-content:space-around;
+    }
+    .navbar img{
+    border-radius: 30px;
+   
+    
+    }
+    .btn{
+        text-transform: uppercase;
+        color:rgb(255, 201, 242);
+        font-weight: bold;
+        border: none;
+        margin-right: 20px;
+        font-size: 0.5rem;
+    }
+    .heading{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 1rem;
+        color:rgb(112, 255, 205);
+        text-shadow: 2px 2px 2px white;
+        
+    }
+    
+  }
+  
+  
+@media screen and (max-width: 865px) {
+    .navbar{
+        font-size:2rem;
+        background-color: rgb(114, 114, 255);
+        align-items: center;
+        line-height:0px;
+        
+    }
+    .navbar1{
+        display: flex;
+        justify-content:space-evenly;
+        
+    }
+    img{
+        margin-right: 50px;
+        margin-bottom: 0px;
+    }
+    .List{
+        display:flex;
+        list-style-type: none;
+        justify-content:space-around;
+    }
+    .navbar img{
+    border-radius: 30px;
+   
+    
+    }
+    .btn{
+        text-transform: uppercase;
+        color:rgb(255, 201, 242);
+        font-weight: bold;
+        border: none;
+        margin-right: 5px;
+        font-size: 0.4rem;
+    }
+    .heading{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 0.8rem;
+        color:rgb(112, 255, 205);
+        text-shadow: 2px 2px 2px white;
+        
+    }
+    
+  }
+  
